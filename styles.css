@@ -13,5 +13,5 @@ body {
   .item {
     position: relative;
     left: -20px; /* Adjust the value as needed */
-    color: red;
+    color:red;
   }
